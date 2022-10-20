@@ -1,0 +1,22 @@
+{
+  "name": "camera_gallery",
+  "version": "1.0.0",
+  "description": "summer training project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruheej1/SummerTrainingProject.git"
+  },
+  "author": "Ruhee Jain, Pranav Malhotra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruheej1/SummerTrainingProject/issues"
+  },
+  "engines": {
+    "node": "14.17.5"
+  },
+  "homepage": "https://github.com/Ruheej1/SummerTrainingProject#readme"
+}
